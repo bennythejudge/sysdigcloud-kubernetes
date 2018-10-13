@@ -1,5 +1,7 @@
 # sdc-kubernetes: Sysdig Pro Software deployment on Kubernetes
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/sysdigcloud-kubernetes.svg)](https://www.guardrails.io)
+
 [Sysdig](https://sysdig.com/) is the the first unified approach to container security, monitoring and forensics.
 
 This project contains the tools you need to deploy the **Pro Software** (AKA onprem) version of Sysdig to your infrastructure as Kubernetes deployment.
